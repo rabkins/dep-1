@@ -25,5 +25,5 @@ directory = { path = ".", editable = true }
 
 [[packages]]
 name = "dep-2"
-version = "0.0.2"
-vcs = { type = "git", url = "https://github.com/rabkins/dep-2.git", requested-revision = "v0.0.2", commit-id = "e67f9070c75310199858952bf8886ff900ca19bb" }
+version = "0.0.3"
+vcs = { type = "git", url = "https://github.com/rabkins/dep-2.git", requested-revision = "v0.0.3", commit-id = "6682d66eb1efdd9597efcc47b85d2af6bdc1e4be" }
