@@ -20,7 +20,9 @@ classifiers = [
   "Programming Language :: Python :: Implementation :: CPython",
   "Programming Language :: Python :: Implementation :: PyPy",
 ]
-dependencies = ["dep-2==0.0.2"]
+dependencies = [
+    "dep-2",
+]
 
 [project.urls]
 Documentation = "https://github.com/Marcin r. Raba/dep-1#readme"
