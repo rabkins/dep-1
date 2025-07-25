@@ -51,4 +51,4 @@ tests = ["tests", "*/dep-1/tests"]
 exclude_lines = ["no cov", "if __name__ == .__main__.:", "if TYPE_CHECKING:"]
 
 [tool.uv.sources]
-dep-2 = { git = "https://github.com/rabkins/dep-2.git", rev = "v0.0.1" }
+dep-2 = { git = "https://github.com/rabkins/dep-2.git", rev = "v0.0.2" }
