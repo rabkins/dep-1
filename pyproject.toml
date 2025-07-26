@@ -20,7 +20,11 @@ classifiers = [
   "Programming Language :: Python :: Implementation :: CPython",
   "Programming Language :: Python :: Implementation :: PyPy",
 ]
-dependencies = ["dep-2 @ git+https://github.com/rabkins/dep-2@v0.0.5", "rich"]
+dependencies = [
+  "dep-2 @ git+https://github.com/rabkins/dep-2@v0.0.5",
+  "rich",
+  "awscli",
+]
 
 [project.urls]
 Documentation = "https://github.com/Marcin r. Raba/dep-1#readme"
